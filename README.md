@@ -9,3 +9,5 @@
 ### LineageOS 13 vendor for Xiaomi Redmi Note 3 (HENNESSY):
 
 https://github.com/fulgerul46/android_vendor_xiaomi_hennessy
+
+Test
