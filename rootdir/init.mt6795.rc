@@ -1168,6 +1168,24 @@ service msensord /system/bin/msensord
     class main
     oneshot
 
+service bmi160d /system/bin/bmi160d
+    class main
+    user system
+    group system
+    oneshot
+
+service yamaha537 /system/bin/yamaha537
+    class main
+    user system
+    group system input
+    oneshot
+    
+service lsm6ds3d /system/bin/lsm6ds3d
+    class main
+    user system
+    group system
+    oneshot
+
 service s62xd /system/bin/s62xd
     disabled
     user compass

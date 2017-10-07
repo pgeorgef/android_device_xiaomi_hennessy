@@ -1,0 +1,4 @@
+type yamaha537_exec, exec_type, file_type;
+type yamaha537, domain;
+
+init_daemon_domain(yamaha537)
